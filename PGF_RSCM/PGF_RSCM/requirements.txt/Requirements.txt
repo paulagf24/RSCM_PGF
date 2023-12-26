@@ -1,0 +1,37 @@
+# Librerías y paquetes empleados 
+
+**Sklearn**
+.tree import DecisionTreeClassifier, plot_tree, tree
+.ensemble import RandomForestClassifier
+.metrics import classification_report, make scorer,confusion_matrix
+.inspection import PermutationImportance
+.model_selection import RandomizedSearchCV
+.linear_model import LogisticRegression
+
+**XGBoost**
+XGBClassifier
+xgboost (xgb)
+ 
+**LightGBM**
+LGBMClassifier
+lightgbm (lgb)
+ 
+**Scipy**
+.stats import randint
+
+**Funciones creadas**
+funciones_metricas
+funciones_fraud 
+ 
+**Otros**
+matplotlib.pyplot (plt)
+numpy (np)
+pandas (pd)
+seaborn (sns)
+scikitplot (skp)
+warnings
+shap
+
+
+
+
